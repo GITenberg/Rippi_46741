@@ -1,0 +1,29 @@
+_repo: Rippi_46741
+contributor:
+  translator:
+    agent_name: Marjanen, V. A.
+    gutenberg_agent_id: '43926'
+    url: http://www.gutenberg.org/2009/agents/43926
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Горький, Максим
+    - Gorky, Maxim
+    - Peshkov, Alexey Maximiovich
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '2014-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46741'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Rippi
+url: http://www.gutenberg.org/ebooks/46741
