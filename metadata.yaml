@@ -1,9 +1,13 @@
 _repo: Rippi_46741
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Marjanen, V. A.
     gutenberg_agent_id: '43926'
     url: http://www.gutenberg.org/2009/agents/43926
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46741#Rippi
 gutenberg_issued: '2014-08-31'
 gutenberg_type: Text
 identifiers:
